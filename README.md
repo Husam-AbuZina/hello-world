@@ -5,6 +5,8 @@ Learning how to make a repository on GitHub.
 
 ## Tips & Tricks
 
+### There are a lot of Tips & Triks, The following are just my favorites and most useful i think 🔥🔥🔥 😄😄
+
 - Tips
     
     ## Rename a branch
